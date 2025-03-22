@@ -1,0 +1,6 @@
+
+Building the pipeline:- 
+    Create Github repo and clone it into local computer.
+    add scr folder along with the all components (run them individually)
+    add data , models , reposrts dictinories to .gitignore file
+    now git add , commit , and push
